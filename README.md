@@ -1,4 +1,4 @@
-# **mp0**
+# **Lab 2 Exercise**
 
 Hawraa Al-Adilee
 Student id is: 40246450
